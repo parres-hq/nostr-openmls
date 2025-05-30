@@ -1,5 +1,11 @@
 # Nostr OpenMLS
 
+## ARCHIVED: DO NOT USE
+
+⚠️ This library has been replaced with the [nostr-mls](https://github.com/rust-nostr/nostr/tree/master/crates/nostr-mls) create that is now part of the [rust-nostr](https://github.com/rust-nostr/nostr/tree/master) set of crates. ⚠️
+
+---
+
 A simplified interface to work with [OpenMLS](https://github.com/openmls/openmls) on Nostr according to the [NIP-104](https://github.com/nostr-protocol/nips/pull/1427) spec.
 
 ## Examples
